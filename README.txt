@@ -1,2 +1,6 @@
-初次学习基于opencv的行人检测。
-注意haarcascades数据集的绝对路径。
+# Pedestrian detection
+# Backgrounds
+THis project is a kind of easy-working pedestrian detection program based on openCV, which includes the haar-adaboost and hog-svm algorithm.
+
+# Demo
+[image]
